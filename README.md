@@ -1,8 +1,8 @@
-# qs
+# qsDeep
 Parse literal objects to query string in deep.
 
 ```JavaScript
-console.log(qs({
+console.log(qsDeep({
   name: 'arnuel gutierrez menco',
   age: -1,
   technology: {
